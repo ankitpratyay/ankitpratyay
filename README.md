@@ -11,8 +11,7 @@ Skills: Jest · Webpack · REST APIs · Cascading Style Sheets (CSS) · redux ·
 
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
-[<kbd> <br> LinkedIn <br> </kbd>][Link]
-[Link]: # 'https://www.linkedin.com/in/ankitpratyay'
+[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
 
 LinkedIn - https://www.linkedin.com/in/ankitpratyay <br />
 GitHub - https://github.com/ankitpratyay <br />
