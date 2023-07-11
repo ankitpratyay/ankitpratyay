@@ -13,6 +13,8 @@ Skills: Jest · Webpack · REST APIs · Cascading Style Sheets (CSS) · redux ·
 
 [![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
 
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 <a href="https://www.linkedin.com/in/ankitpratyay" class="button primary">Publish post</a>
 
 GitHub - https://github.com/ankitpratyay <br />
